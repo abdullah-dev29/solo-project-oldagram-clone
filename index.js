@@ -64,7 +64,6 @@ function setupLikes(postId, heartId, countId) {
         }
     });
 }
-
 setupLikes("user-one-post-el", "user-one-heart-icon-el", "user-one-el");
 setupLikes("user-two-post-el", "user-two-heart-icon-el", "user-two-el");
 setupLikes("user-three-post-el", "user-three-heart-icon-el", "user-three-el");

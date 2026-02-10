@@ -121,11 +121,13 @@ section img {
     padding: 5px 10px;
     width: 95%;
 }
+
 .likes-container p {
     margin-top: 0;
     margin-bottom: 0;
     font-size: 17px;
 }
+
 .likes-container span {
     font-size: 18px;
     font-weight: bold;
